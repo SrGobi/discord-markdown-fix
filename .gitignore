@@ -66,3 +66,4 @@ pnpm-lock.yaml
 
 # packages
 package-lock.json
+bun.lockb
