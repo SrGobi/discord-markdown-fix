@@ -1,6 +1,9 @@
 # discord-markdown-fix
 A markdown parser for Discord messages.
 
+<p align="center"><a href="https://nodei.co/npm/discord-markdown-fix/"><img src="https://nodei.co/npm/discord-markdown-fix.png"></a></p>
+<p align="center"><img src="https://img.shields.io/npm/v/discord-markdown-fix?style=for-the-badge"> <img src="https://img.shields.io/npm/l/hercai?style=for-the-badge"> <img src="https://img.shields.io/npm/dt/discord-markdown-fix?style=for-the-badge"> <a href="https://discord.gg/cqrN3Eg" target="_blank"> <img alt="Discord" src="https://img.shields.io/badge/Support-Click%20here-7289d9?style=for-the-badge&logo=discord"> </a> </p>
+
 ## Using
 
 ```bash
